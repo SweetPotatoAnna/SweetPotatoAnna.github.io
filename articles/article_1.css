@@ -1,0 +1,17 @@
+@import "../_common.css";
+
+/* layout for the article title */
+.article-title {
+    text-align: center;
+}
+
+/* layout for the article picture */
+.article-picture {
+    text-align: center;
+}
+
+.article-picture img {
+    width: 60%;
+    height: 60%;
+    padding: 40px 0 40px 0;
+}
